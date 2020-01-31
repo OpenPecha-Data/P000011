@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅༅། །ཡུལ་མཆོག་ཏུ་གྱུར་པ་རྣམས་ལ་རྗེས་སུ་བསྔགས་པའི་བསྟོད་ཚོགས་ཀྱི་སྐོར་ཡོན་ཏན་རྒྱ་མཚོའི་སྤྲིན་ཕུང་བླ་མ་རྒྱང་འབོད་དང་ཡུལ་དམ་པ་རྣམས་ལ་གསོལ་འདེབས་ཞབས་བརྟན་གྱི་སྐོར་དད་བསོད་རྒྱ་མཚོའི་སྤྲིན་ཆེན་བཅས།
+    །
+  authors:
+  - མཛད་པ་པོ། ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  sku: SHE-SG-02
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: A Collection of Praises
+    bo: བསྟོད་ཚོགས་ཀྱི་སྐོར།༼ཁ༽
+  collection:
+    en: Shechen Gyaltsab Series–  Book 2
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་གསུང་འབུམ།–  དེབ། ༢
+  author:
+    en: Shechen Gyaltsap Gyurme Pema Namgyal
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-SG-02
+  category:
+    en: Uncategorized
+    bo: སྡེ་ཚན་མེད་པ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-SG-02.epub
+  description:
+    en: ''
+    bo: ''
